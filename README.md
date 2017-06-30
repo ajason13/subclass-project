@@ -1,7 +1,6 @@
-# Basic Project
-## Basic Project Structure
+# Subclass Project
 
-*Default Structure for A Basic Project*
+*Learn about subclasses*
 
 **Java 8**
 
